@@ -1,0 +1,24 @@
+{
+  "name": "aws-s3-cut-object",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://agungjati: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@github.com/agungjati/Copy-Delete-Object-AWS-S3-with-JS-SDK.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agungjati/Copy-Delete-Object-AWS-S3-with-JS-SDK/issues"
+  },
+  "homepage": "https://github.com/agungjati/Copy-Delete-Object-AWS-S3-with-JS-SDK#readme",
+  "dependencies": {
+    "aws-sdk": "^2.1054.0",
+    "dotenv": "^11.0.0"
+  }
+}
